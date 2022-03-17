@@ -18,14 +18,14 @@ A web app to let users exchange messages over public chat rooms.
 - To run the backend
 ```console
 cd backend
-npm init
+npm i
 nodemon
 ```
 
 - To run the frontend
 ```console
 cd frontend
-npm init
+npm i
 npm start
 ```
 ---
