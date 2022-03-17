@@ -1,5 +1,3 @@
-# chat-room-app
-A web app to let users exchange messages over public chat rooms.
 # Chat Room App
 ---
 
@@ -14,19 +12,18 @@ A web app to let users exchange messages over public chat rooms.
 ---
 ## How to run
 ### In development environment
-- Download the code
-- Run the following command
-- Run the backend
+- Download the code base
+- Navigate to the chat-room-app directory
+- Run the following commands
+- To run the backend
 ```console
-cd chatapp
 cd backend
 npm init
 nodemon
 ```
 
-- Run the frontend
+- To run the frontend
 ```console
-cd chatapp
 cd frontend
 npm init
 npm start
